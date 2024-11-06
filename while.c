@@ -7,4 +7,8 @@ void main()
     {
         printf("%d",i);
     }
+    for(int i=0;i<5;i++)
+    {
+        printf("%d",i);
+    }
 }
